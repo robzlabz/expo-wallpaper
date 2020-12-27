@@ -4484,11 +4484,6 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.1.tgz#5b3531bd76a645a4c9fb6e693ed36419e3301339"
   integrity sha512-NAnt2iGDXohE5LI7uBnLnqvLQMtzhkiAOLXTmv+qnF9Ky7xAPcX8Up/xWIhxvLVGJvuLiNc4xQLtuqDRzb4fSA==
 
-react-native-manage-wallpaper@^1.1.2:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/react-native-manage-wallpaper/-/react-native-manage-wallpaper-1.1.2.tgz#dd9001dbf62e2c16738e8050bb337dcb32bdea36"
-  integrity sha512-O1/yYBDOIj+kNKA9BsxxMWyAvriONXPhljAJjSbUT1jVYVrSFEn2jyDM0ljcfkM/7b1FAAs3uqlWlJBnBrjGDw==
-
 react-native-safe-area-context@3.1.9:
   version "3.1.9"
   resolved "https://registry.yarnpkg.com/react-native-safe-area-context/-/react-native-safe-area-context-3.1.9.tgz#48864ea976b0fa57142a2cc523e1fd3314e7247e"
