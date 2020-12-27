@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "id.rafamily.tesla"
     },
     "web": {
       "favicon": "./assets/favicon.png"
